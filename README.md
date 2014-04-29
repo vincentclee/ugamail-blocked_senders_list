@@ -13,6 +13,8 @@ We all know that UGA sells your email to spammers, so here is my official blocke
 
 [Log in to UGAMail](https://eits.uga.edu/email_and_calendar/office365)
 
+#[Instructions](https://github.com/vincentclee/ugamail-blocked_senders_list/blob/master/HOWTO.md)
+
 
 
 
