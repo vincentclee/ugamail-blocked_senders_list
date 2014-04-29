@@ -1,4 +1,8 @@
-![UGAMail](http://eits.uga.edu/ExpressionEngine/img/ugamail.svgz) Official Blocked Senders List
+![EITS](http://eits.uga.edu/ExpressionEngine/img/small-logo.svgz)
+![UGAMail](http://eits.uga.edu/ExpressionEngine/img/ugamail.svgz)
+![](http://eits.uga.edu/ExpressionEngine/img/OneDrive-Logo-bak.svgz)
+![](http://eits.uga.edu/ExpressionEngine/files/images/category-email-calendar.png)
+UGAMail - Official Blocked Senders List
 ============================
 
 
