@@ -9,5 +9,5 @@ How To Add Blocked Senders
 ##Step 3
 ![step2](https://raw.github.com/vincentclee/ugamail-blocked_senders_list/master/images/two.jpg)
 
-###Enter email address or domain in text field, and click plus button.
+###Enter email address or domain in text field, and click + button.
 ###Click Save to commit the changes.
