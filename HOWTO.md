@@ -1,4 +1,4 @@
-How To Add Blocked Senders
+UGAMail: How To Add Blocked Senders
 ============================
 
 ##[Step 1: Login to UGAMail](http://eits.uga.edu/email_and_calendar/office365)
