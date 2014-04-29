@@ -1,7 +1,8 @@
 ![EITS](http://eits.uga.edu/ExpressionEngine/img/small-logo.svgz)
 ![UGAMail](http://eits.uga.edu/ExpressionEngine/img/ugamail.svgz)
 ![](http://eits.uga.edu/ExpressionEngine/img/OneDrive-Logo-bak.svgz)
-![](http://eits.uga.edu/ExpressionEngine/files/images/category-email-calendar.png)
+
+
 UGAMail - Official Blocked Senders List
 ============================
 
@@ -13,6 +14,12 @@ We all know that UGA sells your email to spammers, so here is my official blocke
 [Log in to UGAMail](https://eits.uga.edu/email_and_calendar/office365)  
 [EITS: Enterprise Information Technology Services](http://eits.uga.edu/)
 
+
+
+
+
+
+###April 29, 2014
 
 ```
 connectnowreply@gmail.com
