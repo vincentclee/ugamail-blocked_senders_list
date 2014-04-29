@@ -1,7 +1,10 @@
-UGAMail - Official Blocked Senders List
+![UGAMail](http://eits.uga.edu/ExpressionEngine/img/ugamail.svgz) Official Blocked Senders List
 ============================
 
-UGA Sells your emails, so here is my official blocked senders list. Enjoy
+
+
+
+We all know that UGA sells your email to spammers, so here is my official blocked senders list. Enjoy 
 
 [Log in to UGAMail](https://eits.uga.edu/email_and_calendar/office365)  
 [EITS: Enterprise Information Technology Services](http://eits.uga.edu/)
