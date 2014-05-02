@@ -20,6 +20,17 @@ We all know that UGA sells your email to spammers, so here is my official blocke
 
 ##Dated List (newest first)
 
+###May 2, 2014
+```
+summerstorage14@gmail.com
+summerstorage@gmail.com
+mail29.wdc01.mcdlv.net
+wdc01.mcdlv.net
+mcdlv.net
+mail40.atl31.mcdlv.net
+atl31.mcdlv.net
+```
+
 ###May 1, 2014
 ```
 dingding@getbellhops.com
