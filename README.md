@@ -20,6 +20,16 @@ We all know that UGA sells your email to spammers, so here is my official blocke
 
 ##Dated List (newest first)
 
+###May 3, 2014
+```
+info@shared32.large.bmsend.com
+shared32.large.bmsend.com
+large.bmsend.com
+bmsend.com
+info@auiaschool.com
+auiaschool.com
+```
+
 ###May 2, 2014
 ```
 summerstorage14@gmail.com
