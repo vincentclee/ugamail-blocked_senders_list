@@ -20,6 +20,15 @@ We all know that UGA sells your email to spammers, so here is my official blocke
 
 ##Dated List (newest first)
 
+###May 5, 2014
+```
+beatthebookstore=bellsouth.net@mail20.atl11.rsgsv.net
+mail20.atl11.rsgsv.net
+atl11.rsgsv.net
+rsgsv.net
+beatthebookstore@bellsouth.net
+```
+
 ###May 3, 2014
 ```
 info@shared32.large.bmsend.com
