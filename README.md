@@ -24,38 +24,24 @@ We all know that UGA sells your email to spammers, so here is my official blocke
 vb@sellyourbooks.co
 sellyourbooks.co
 ```
-###May 12, 2014
+###May 2014
 ```
 2450317@pyb06.info
 pyb06.info
 postyourbook.com
-```
-###May 6, 2014
-```
 noreply@bookscouter.com
 bookscouter.com
-```
-###May 5, 2014
-```
 beatthebookstore=bellsouth.net@mail20.atl11.rsgsv.net
 mail20.atl11.rsgsv.net
 atl11.rsgsv.net
 rsgsv.net
 beatthebookstore@bellsouth.net
-```
-
-###May 3, 2014
-```
 info@shared32.large.bmsend.com
 shared32.large.bmsend.com
 large.bmsend.com
 bmsend.com
 info@auiaschool.com
 auiaschool.com
-```
-
-###May 2, 2014
-```
 summerstorage14@gmail.com
 summerstorage@gmail.com
 mail29.wdc01.mcdlv.net
@@ -63,17 +49,13 @@ wdc01.mcdlv.net
 mcdlv.net
 mail40.atl31.mcdlv.net
 atl31.mcdlv.net
-```
-
-###May 1, 2014
-```
 dingding@getbellhops.com
 getbellhops.com
 PoloClubPoolParty@Colliercompanies.com
 colliercompanies.com
 ```
 
-###April 29, 2014
+###April 2014
 
 ```
 connectnowreply@gmail.com
