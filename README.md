@@ -19,17 +19,16 @@ We all know that UGA sells your email to spammers, so here is my official blocke
 
 
 ##Dated List (newest first)
-###June 24, 2014
+###July 22, 2014
+```
+info@yourfuturemovers.com
+yourfuturemovers.com
+```
+###June 2014
 ```
 athenshighlandapts@gmail.com
-```
-###June 12, 2014
-```
 me@sellyourstuff.me
 sellyourstuff.me
-```
-###June 4, 2014
-```
 info@mail128-16.atl41.mandrillapp.com
 mail128-16.atl41.mandrillapp.com
 atl41.mandrillapp.com
