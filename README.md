@@ -19,7 +19,12 @@ We all know that UGA sells your email to spammers, so here is my official blocke
 
 
 ##Dated List (newest first)
-###July 22, 2014
+###August 2, 2014
+```
+zoemc@zimada.com
+zimada.com
+```
+###July 2014
 ```
 info@yourfuturemovers.com
 yourfuturemovers.com
