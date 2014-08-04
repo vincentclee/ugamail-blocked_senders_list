@@ -19,6 +19,11 @@ We all know that UGA sells your email to spammers, so here is my official blocke
 
 
 ##Dated List (newest first)
+###August 5, 2014
+```
+student.services@campusjump.com
+campusjump.com
+```
 ###August 2, 2014
 ```
 zoemc@zimada.com
