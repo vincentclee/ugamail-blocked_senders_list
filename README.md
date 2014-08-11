@@ -19,6 +19,13 @@ We all know that UGA sells your email to spammers, so here is my official blocke
 
 
 ##Dated List (newest first)
+###August 11, 2014
+```
+invitation@honorsociety.org
+reply_bmvfgo_lnjotgc@em.honorsociety.org
+em.honorsociety.org
+honorsociety.org
+```
 ###August 5, 2014
 ```
 student.services@campusjump.com
