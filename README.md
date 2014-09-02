@@ -19,41 +19,30 @@ We all know that UGA sells your email to spammers, so here is my official blocke
 
 
 ##Dated List (newest first)
-###August 29, 2014
+###September 2, 2014
+```
+vtextbooks.info@mail24.wdc01.mcdlv.net
+info@vtextbooks.info
+vtextbooks.info
+mcdlv.net
+```
+###August 2014
 ```
 campus.assistance@edurinka.com
 edurinka.com
-```
-###August 26, 2014
-```
 andrewsmith30301@yahoo.com
 rip@zombiefarms.com
 zombiefarms.com
-```
-###August 18, 2014
-```
 info@vbooks06.info
 vbooks06.info
-```
-###August 14, 2014
-```
 noreply@5stracker.com
 5stracker.com
-```
-###August 11, 2014
-```
 invitation@honorsociety.org
 reply_bmvfgo_lnjotgc@em.honorsociety.org
 em.honorsociety.org
 honorsociety.org
-```
-###August 5, 2014
-```
 student.services@campusjump.com
 campusjump.com
-```
-###August 2, 2014
-```
 zoemc@zimada.com
 zimada.com
 ```
