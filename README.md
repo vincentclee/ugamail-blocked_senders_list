@@ -21,10 +21,12 @@ We all know that UGA sells your email to spammers, so here is my official blocke
 ##Dated List (newest first)
 ###January 2015
 ````
+invite@feedspotmailer.com
+feedspotmailer.com
 info@cobooks.info
 cobooks.info
 ```
-###October 22, 2014
+###October 2014
 ```
 danbaranholtz@gmail.com
 ```
